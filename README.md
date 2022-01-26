@@ -1,2 +1,2 @@
-# Devops
-Displaying my progress of learning Devops 
+# Devops + Python
+Displaying my progress of learning Devops and Python 
