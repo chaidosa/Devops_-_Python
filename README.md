@@ -1,5 +1,5 @@
 # Devops + Python
- progress of learning Devops and Python 
+Personal
 
 Command to run virtual environment and Jupyter notebook<br>
 `$ virtualenv environment`<br>
